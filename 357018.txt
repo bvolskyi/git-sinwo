@@ -1,2 +1,3 @@
 tekst dodany w oryginalnym folderze
 inny tekst wpisany w sklonowanym repo
+dodatkowa linijka z testowego branchu
